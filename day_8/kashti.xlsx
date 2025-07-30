@@ -1,0 +1,4 @@
+,import,seaborn,as,sns
+0,import,pandas,as,pd
+1,df,=,sns.load_dataset('titanic'),
+2,df.to_excel('kashti.xls,,,

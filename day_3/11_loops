@@ -1,0 +1,31 @@
+    #while and for loops
+
+#while loop
+
+# x = 0
+# while(x<10):
+#     print(x)
+#     x = x+1
+
+# x = 10
+# while x >= 0:
+#     print(x)
+#     x = x - 1
+
+#for loop
+# for x in range(10,50):
+#     print(x)
+    
+ #arrary
+# days =["m","t","w","t","f","s","s"]
+# for d in days:
+#         print(d)
+# arrary
+# days =["m","t","w","t","f","s","s"]
+# for d in days:
+#     if(d =="w"):break
+#     print(d)
+days =["m","t","w","t","f","s","s"]
+for d in days:
+    if(d =="w"):continue    #skip w
+    print(d)

@@ -1,0 +1,1705 @@
+,survival,pclass,sex,age,sibsp,parch,fare,embarked,class,who,adult_male,embark_town,alive,alone,family_size
+0,0,3,male,22.0,1,0,-0.8431802620489479,S,Third,man,True,Southampton,no,False,1
+2,1,3,female,26.0,0,0,-0.7945688879364063,S,Third,woman,False,Southampton,yes,True,0
+3,1,1,female,35.0,1,0,2.458792335077026,S,First,woman,False,Southampton,yes,False,1
+4,0,3,male,35.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+5,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.7561623015449717,Q,Third,man,True,Queenstown,no,True,0
+6,0,1,male,54.0,0,0,2.3696714825373664,S,First,man,True,Southampton,no,True,0
+7,0,3,male,2.0,3,1,0.15245269662644087,S,Third,child,False,Southampton,no,False,4
+8,1,3,female,27.0,0,2,-0.5635172263582326,S,Third,woman,False,Southampton,yes,False,2
+9,1,2,female,14.0,1,0,0.800301880688073,C,Second,child,False,Cherbourg,yes,False,1
+10,1,3,female,4.0,1,1,-0.16262102447336566,S,Third,child,False,Southampton,yes,False,2
+11,1,1,female,58.0,0,0,0.5467449533170562,S,First,woman,False,Southampton,yes,True,0
+12,0,3,male,20.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+13,0,3,male,39.0,1,5,0.8870245721048472,S,Third,man,True,Southampton,no,False,6
+14,0,3,female,14.0,0,0,-0.799667680954433,S,Third,child,False,Southampton,no,True,0
+15,1,2,female,55.0,0,0,-0.21303281984933464,S,Second,woman,False,Southampton,yes,True,0
+16,0,3,male,2.0,4,1,0.7321883434500852,Q,Third,child,False,Queenstown,no,False,5
+17,1,2,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.4290833714606306,S,Second,man,True,Southampton,yes,True,0
+18,0,3,female,31.0,1,0,-0.06899911877513731,S,Third,woman,False,Southampton,no,False,1
+19,1,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8449806833123754,C,Third,woman,False,Cherbourg,yes,True,0
+20,0,2,male,35.0,0,0,0.507135685521652,S,Second,man,True,Southampton,no,True,0
+21,1,2,male,34.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,yes,True,0
+22,1,3,female,15.0,0,0,-0.7870647321104407,Q,Third,child,False,Queenstown,yes,True,0
+23,1,1,male,28.0,0,0,1.1912957656240892,S,First,man,True,Southampton,yes,True,0
+24,0,3,female,8.0,3,1,0.15245269662644087,S,Third,child,False,Southampton,no,False,4
+25,1,3,female,38.0,1,5,0.8951264677902709,S,Third,woman,False,Southampton,yes,False,6
+26,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8449806833123754,C,Third,man,True,Cherbourg,no,True,0
+28,1,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.7978672596910054,Q,Third,woman,False,Queenstown,yes,True,0
+29,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.7966717799720896,S,Third,man,True,Southampton,no,True,0
+30,0,1,male,40.0,0,0,0.6310622819258914,C,First,man,True,Cherbourg,no,True,0
+32,1,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8071718367803985,Q,Third,woman,False,Queenstown,yes,True,0
+33,0,2,male,66.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,no,True,0
+35,0,1,male,42.0,1,0,2.379573799486217,S,First,man,True,Southampton,no,False,1
+36,1,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8446782125401195,C,Third,man,True,Cherbourg,yes,True,0
+37,0,3,male,21.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+38,0,3,female,18.0,2,0,-0.06899911877513731,S,Third,woman,False,Southampton,no,False,2
+39,1,3,female,14.0,1,0,-0.5557105997600112,C,Third,child,False,Cherbourg,yes,False,1
+40,0,3,female,40.0,1,0,-0.6829427696039034,S,Third,woman,False,Southampton,no,False,1
+41,0,2,female,27.0,1,0,0.14705143283615865,S,Second,woman,False,Southampton,no,False,1
+42,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.7966717799720896,C,Third,man,True,Cherbourg,no,True,0
+43,1,2,female,3.0,1,2,1.6291006034092193,C,Second,child,False,Cherbourg,yes,False,3
+44,1,3,female,19.0,0,0,-0.7978672596910054,Q,Third,woman,False,Queenstown,yes,True,0
+45,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+46,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,0,-0.24904124511788395,Q,Third,man,True,Queenstown,no,False,1
+48,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",2,0,0.19596527772095632,C,Third,man,True,Cherbourg,no,False,2
+49,0,3,female,18.0,1,0,-0.0834024888825571,S,Third,woman,False,Southampton,no,False,1
+50,0,3,male,7.0,4,1,1.49286632724819,S,Third,child,False,Southampton,no,False,5
+51,0,3,male,21.0,0,0,-0.8035709942535437,S,Third,man,True,Southampton,no,True,0
+53,1,2,female,29.0,1,0,0.507135685521652,S,Second,woman,False,Southampton,yes,False,1
+54,0,1,male,65.0,0,1,3.098244354366032,C,First,man,True,Cherbourg,no,False,1
+55,1,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,1.1912957656240892,S,First,man,True,Southampton,yes,True,0
+56,1,2,female,21.0,0,0,-0.6091254978033772,S,Second,woman,False,Southampton,yes,True,0
+57,0,3,male,28.5,0,0,-0.8446782125401195,C,Third,man,True,Cherbourg,no,True,0
+58,1,2,female,5.0,1,2,0.6331651739615747,S,Second,child,False,Southampton,yes,False,3
+59,0,3,male,11.0,5,2,2.012287861747014,S,Third,child,False,Southampton,no,False,7
+60,0,3,male,22.0,0,0,-0.8446782125401195,C,Third,man,True,Cherbourg,no,True,0
+63,0,3,male,4.0,3,2,0.6439677015421393,S,Third,child,False,Southampton,no,False,5
+64,0,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,0.6310622819258914,C,First,man,True,Cherbourg,no,True,0
+65,1,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,1,-0.2673479285244145,C,Third,man,True,Cherbourg,yes,False,2
+66,1,2,female,29.0,0,0,-0.6091254978033772,S,Second,woman,False,Southampton,yes,True,0
+67,0,3,male,19.0,0,0,-0.7777673567061012,S,Third,man,True,Southampton,no,True,0
+68,1,3,female,17.0,4,2,-0.7945688879364063,S,Third,woman,False,Southampton,yes,False,6
+69,0,3,male,26.0,2,0,-0.741456460665296,S,Third,man,True,Southampton,no,False,2
+70,0,2,male,32.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,no,True,0
+71,0,3,female,16.0,5,2,2.012287861747014,S,Third,woman,False,Southampton,no,False,7
+73,0,3,male,26.0,1,0,-0.32435646740958174,C,Third,man,True,Cherbourg,no,False,1
+74,1,3,male,32.0,0,0,2.703347156130905,S,Third,man,True,Southampton,yes,True,0
+75,0,3,male,25.0,0,0,-0.8143735218341084,S,Third,man,True,Southampton,no,True,0
+78,1,2,male,0.83,0,2,0.7231862371329479,S,Second,child,False,Southampton,yes,False,2
+79,1,3,female,30.0,0,0,-0.4668922179926075,S,Third,woman,False,Southampton,yes,True,0
+80,0,3,male,22.0,0,0,-0.7171507736090252,S,Third,man,True,Southampton,no,True,0
+81,1,3,male,29.0,0,0,-0.6811423483404759,S,Third,man,True,Southampton,yes,True,0
+82,1,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8044712048852574,Q,Third,woman,False,Queenstown,yes,True,0
+83,0,1,male,28.0,0,0,2.0266912318544335,S,First,man,True,Southampton,no,True,0
+84,1,2,female,17.0,0,0,-0.6091254978033772,S,Second,woman,False,Southampton,yes,True,0
+85,1,3,female,33.0,3,0,-0.22383534742989947,S,Third,woman,False,Southampton,yes,False,3
+86,0,3,male,16.0,1,3,1.1102768087698531,S,Third,man,True,Southampton,no,False,4
+89,0,3,male,24.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+90,0,3,male,29.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+91,0,3,male,20.0,0,0,-0.799667680954433,S,Third,man,True,Southampton,no,True,0
+92,0,1,male,46.0,1,0,3.040328403164097,S,First,man,True,Southampton,no,False,1
+93,0,3,male,26.0,1,2,0.11644427135789169,S,Third,man,True,Southampton,no,False,3
+94,0,3,male,59.0,0,0,-0.8431802620489479,S,Third,man,True,Southampton,no,True,0
+96,0,1,male,71.0,0,0,1.1303839134398115,C,First,man,True,Cherbourg,no,True,0
+97,1,1,male,23.0,0,1,3.1975627929417443,C,First,man,True,Cherbourg,yes,False,1
+98,1,2,female,34.0,0,1,0.29108513391035595,S,Second,woman,False,Southampton,yes,False,1
+99,0,2,male,34.0,1,0,0.507135685521652,S,Second,man,True,Southampton,no,False,1
+100,0,3,female,28.0,0,0,-0.7966717799720896,S,Third,woman,False,Southampton,no,True,0
+103,0,3,male,33.0,0,0,-0.742054200524754,S,Third,man,True,Southampton,no,True,0
+104,0,3,male,37.0,2,0,-0.7945688879364063,S,Third,man,True,Southampton,no,False,2
+105,0,3,male,28.0,0,0,-0.7966717799720896,S,Third,man,True,Southampton,no,True,0
+106,1,3,female,21.0,0,0,-0.8143735218341084,S,Third,woman,False,Southampton,yes,True,0
+107,1,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8053714155169711,S,Third,man,True,Southampton,yes,True,0
+108,0,3,male,38.0,0,0,-0.7966717799720896,S,Third,man,True,Southampton,no,True,0
+109,1,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,0,0.37390451202801933,Q,Third,woman,False,Queenstown,yes,False,1
+110,0,1,male,47.0,0,0,2.379573799486217,S,First,man,True,Southampton,no,True,0
+111,0,3,female,14.5,1,0,-0.32435646740958174,C,Third,child,False,Cherbourg,no,False,1
+112,0,3,male,22.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+113,0,3,female,20.0,1,0,-0.657736871915919,S,Third,woman,False,Southampton,no,False,1
+114,0,3,female,17.0,0,0,-0.3240611983223797,C,Third,woman,False,Cherbourg,no,True,0
+115,0,3,male,21.0,0,0,-0.7945688879364063,S,Third,man,True,Southampton,no,True,0
+116,0,3,male,70.5,0,0,-0.8071718367803985,Q,Third,man,True,Queenstown,no,True,0
+117,0,2,male,29.0,1,0,0.14705143283615865,S,Second,man,True,Southampton,no,False,1
+119,0,3,female,2.0,4,2,0.8870245721048472,S,Third,child,False,Southampton,no,False,6
+122,0,2,male,32.5,1,0,0.800301880688073,C,Second,man,True,Cherbourg,no,False,1
+123,1,2,female,32.5,0,0,-0.4290833714606306,S,Second,woman,False,Southampton,yes,True,0
+125,1,3,male,12.0,1,0,-0.5557105997600112,C,Third,child,False,Cherbourg,yes,False,1
+126,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8071718367803985,Q,Third,man,True,Queenstown,no,True,0
+127,1,3,male,24.0,0,0,-0.8509796869621156,S,Third,man,True,Southampton,yes,True,0
+128,1,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,1,0.24487192092069981,C,Third,woman,False,Cherbourg,yes,False,2
+129,0,3,male,45.0,0,0,-0.86298489594665,S,Third,man,True,Southampton,no,True,0
+130,0,3,male,33.0,0,0,-0.7966717799720896,C,Third,man,True,Cherbourg,no,True,0
+131,0,3,male,20.0,0,0,-0.8575836321563676,S,Third,man,True,Southampton,no,True,0
+132,0,3,female,47.0,1,0,-0.3210580956549826,S,Third,woman,False,Southampton,no,False,1
+134,0,2,male,25.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,no,True,0
+135,0,2,male,23.0,0,0,-0.2817512986318342,C,Second,man,True,Cherbourg,no,True,0
+136,1,1,female,19.0,0,2,0.5275380592788119,S,First,woman,False,Southampton,yes,False,2
+137,0,1,male,37.0,1,0,2.458792335077026,S,First,man,True,Southampton,no,False,1
+138,0,3,male,16.0,0,0,-0.7015447220976361,S,Third,man,True,Southampton,no,True,0
+140,0,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,2,-0.2673479285244145,C,Third,woman,False,Cherbourg,no,False,2
+141,1,3,female,22.0,0,0,-0.8071718367803985,S,Third,woman,False,Southampton,yes,True,0
+142,1,3,female,24.0,1,0,-0.22383534742989947,S,Third,woman,False,Southampton,yes,False,1
+143,0,3,male,19.0,0,0,-0.8791886873174971,Q,Third,man,True,Queenstown,no,True,0
+144,0,2,male,18.0,0,0,-0.5371086472662786,S,Second,man,True,Southampton,no,True,0
+145,0,2,male,19.0,1,1,1.2813168287954624,S,Second,man,True,Southampton,no,False,2
+146,1,3,male,27.0,0,0,-0.8038734650257995,S,Third,man,True,Southampton,yes,True,0
+147,0,3,female,9.0,2,2,1.1102768087698531,S,Third,child,False,Southampton,no,False,4
+148,0,2,male,36.5,0,2,0.507135685521652,S,Second,man,True,Southampton,no,False,2
+149,0,2,male,42.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,no,True,0
+150,0,2,male,51.0,0,0,-0.4632913754657524,S,Second,man,True,Southampton,no,True,0
+152,0,3,male,55.5,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+153,0,3,male,40.5,0,2,-0.3210580956549826,S,Third,man,True,Southampton,no,False,2
+154,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8386792088903793,S,Third,man,True,Southampton,no,True,0
+155,0,1,male,51.0,0,1,3.0550342440437728,C,First,man,True,Cherbourg,no,False,1
+156,1,3,female,16.0,0,0,-0.8083745181843681,Q,Third,woman,False,Queenstown,yes,True,0
+157,0,3,male,30.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+158,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.741456460665296,S,Third,man,True,Southampton,no,True,0
+160,0,3,male,44.0,0,1,-0.20583113479562462,S,Third,man,True,Southampton,no,False,1
+161,1,2,female,40.0,0,0,-0.23103703248360924,S,Second,woman,False,Southampton,yes,True,0
+162,0,3,male,26.0,0,0,-0.8053714155169711,S,Third,man,True,Southampton,no,True,0
+163,0,3,male,17.0,0,0,-0.741456460665296,S,Third,man,True,Southampton,no,True,0
+164,0,3,male,1.0,4,1,1.49286632724819,S,Third,child,False,Southampton,no,False,5
+165,1,3,male,9.0,0,2,0.11284342883103661,S,Third,child,False,Southampton,yes,False,2
+166,1,1,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,1,2.595624351097513,S,First,woman,False,Southampton,yes,False,1
+167,0,3,female,45.0,1,4,0.6439677015421393,S,Third,woman,False,Southampton,no,False,5
+168,0,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,0.5017344217313697,S,First,man,True,Southampton,no,True,0
+169,0,3,male,28.0,0,0,2.703347156130905,S,Third,man,True,Southampton,no,True,0
+170,0,1,male,61.0,0,0,1.047262064549892,S,First,man,True,Southampton,no,True,0
+171,0,3,male,4.0,4,1,0.7321883434500852,Q,Third,child,False,Queenstown,no,False,5
+172,1,3,female,1.0,1,1,-0.5635172263582326,S,Third,child,False,Southampton,yes,False,2
+174,0,1,male,56.0,0,0,0.8453124122737598,C,First,man,True,Cherbourg,no,True,0
+175,0,3,male,18.0,1,1,-0.799667680954433,S,Third,man,True,Southampton,no,False,2
+176,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",3,1,0.46872909913021704,S,Third,man,True,Southampton,no,False,4
+177,0,1,female,50.0,0,0,0.702481392603532,C,First,woman,False,Cherbourg,no,True,0
+178,0,2,male,30.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,no,True,0
+179,0,3,male,36.0,0,0,-1.3653024284429132,S,Third,man,True,Southampton,no,True,0
+181,0,2,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.28144882785957837,C,Second,man,True,Cherbourg,no,True,0
+182,0,3,male,9.0,4,2,0.8951264677902709,S,Third,child,False,Southampton,no,False,6
+183,1,2,male,1.0,2,1,1.4433547425039348,S,Second,child,False,Southampton,yes,False,3
+184,1,3,female,4.0,0,2,0.22086870463668473,S,Third,child,False,Southampton,yes,False,2
+185,0,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,2.2355400984120197,S,First,man,True,Southampton,no,True,0
+186,1,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,0,-0.24904124511788395,Q,Third,woman,False,Queenstown,yes,False,1
+187,1,1,male,45.0,0,0,0.5467449533170562,S,First,man,True,Southampton,yes,True,0
+188,0,3,male,40.0,1,1,-0.24904124511788395,Q,Third,man,True,Queenstown,no,False,2
+189,0,3,male,36.0,0,0,-0.7966717799720896,S,Third,man,True,Southampton,no,True,0
+190,1,2,female,32.0,0,0,-0.4290833714606306,S,Second,woman,False,Southampton,yes,True,0
+191,0,2,male,19.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,no,True,0
+192,1,3,female,19.0,1,0,-0.799667680954433,S,Third,woman,False,Southampton,yes,False,1
+193,1,2,male,3.0,1,1,0.507135685521652,S,Second,child,False,Southampton,yes,False,2
+194,1,1,female,44.0,0,0,0.6310622819258914,C,First,woman,False,Cherbourg,yes,True,0
+197,0,3,male,42.0,0,1,-0.7600584131590287,S,Third,man,True,Southampton,no,False,1
+199,0,2,female,24.0,0,0,-0.4290833714606306,S,Second,woman,False,Southampton,no,True,0
+200,0,3,male,28.0,0,0,-0.6811423483404759,S,Third,man,True,Southampton,no,True,0
+202,0,3,male,34.0,0,0,-0.8974953707240277,S,Third,man,True,Southampton,no,True,0
+203,0,3,male,45.5,0,0,-0.8449806833123754,C,Third,man,True,Cherbourg,no,True,0
+204,1,3,male,18.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,yes,True,0
+205,0,3,female,2.0,0,1,-0.6118261296985184,S,Third,child,False,Southampton,no,False,1
+206,0,3,male,32.0,1,0,-0.22383534742989947,S,Third,man,True,Southampton,no,False,1
+207,1,3,male,26.0,0,0,-0.012285848977172015,C,Third,man,True,Cherbourg,yes,True,0
+208,1,3,female,16.0,0,0,-0.8071718367803985,Q,Third,woman,False,Queenstown,yes,True,0
+209,1,1,male,40.0,0,0,0.8672199382071453,C,First,man,True,Cherbourg,yes,True,0
+210,0,3,male,24.0,0,0,-0.8575836321563676,S,Third,man,True,Southampton,no,True,0
+211,1,2,female,35.0,0,0,0.14705143283615865,S,Second,woman,False,Southampton,yes,True,0
+212,0,3,male,22.0,0,0,-0.8431802620489479,S,Third,man,True,Southampton,no,True,0
+214,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,0,-0.8071718367803985,Q,Third,man,True,Queenstown,no,False,1
+216,1,3,female,27.0,0,0,-0.7945688879364063,S,Third,woman,False,Southampton,yes,True,0
+217,0,2,male,42.0,1,0,0.5791525360587506,S,Second,man,True,Southampton,no,False,1
+219,0,2,male,30.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,no,True,0
+220,1,3,male,16.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,yes,True,0
+221,0,2,male,27.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,no,True,0
+222,0,3,male,51.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+225,0,3,male,22.0,0,0,-0.6919448759210407,S,Third,man,True,Southampton,no,True,0
+226,1,2,male,19.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,yes,True,0
+227,0,3,male,20.5,0,0,-0.8431802620489479,S,Third,man,True,Southampton,no,True,0
+228,0,2,male,18.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,no,True,0
+229,0,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",3,1,0.46872909913021704,S,Third,woman,False,Southampton,no,False,4
+231,0,3,male,29.0,0,0,-0.8053714155169711,S,Third,man,True,Southampton,no,True,0
+232,0,2,male,59.0,0,0,-0.3930749461920813,S,Second,man,True,Southampton,no,True,0
+233,1,3,female,5.0,4,2,0.8951264677902709,S,Third,child,False,Southampton,yes,False,6
+234,0,2,male,24.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,no,True,0
+235,0,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8215752068878183,S,Third,woman,False,Southampton,no,True,0
+236,0,2,male,44.0,1,0,0.507135685521652,S,Second,man,True,Southampton,no,False,1
+237,1,2,female,8.0,0,2,0.5251398981559265,S,Second,child,False,Southampton,yes,False,2
+238,0,2,male,19.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,no,True,0
+239,0,2,male,33.0,0,0,-0.48129558810002715,S,Second,man,True,Southampton,no,True,0
+240,0,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,0,-0.32435646740958174,C,Third,woman,False,Cherbourg,no,False,1
+242,0,2,male,29.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,no,True,0
+243,0,3,male,22.0,0,0,-0.8521823683660853,S,Third,man,True,Southampton,no,True,0
+244,0,3,male,30.0,0,0,-0.8449806833123754,C,Third,man,True,Cherbourg,no,True,0
+246,0,3,female,25.0,0,0,-0.8053714155169711,S,Third,woman,False,Southampton,no,True,0
+247,1,2,female,24.0,0,2,-0.3210580956549826,S,Second,woman,False,Southampton,yes,False,2
+248,1,1,male,37.0,1,1,2.419485538053877,S,First,man,True,Southampton,yes,False,2
+249,0,2,male,54.0,1,0,0.507135685521652,S,Second,man,True,Southampton,no,False,1
+250,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8431802620489479,S,Third,man,True,Southampton,no,True,0
+251,0,3,female,29.0,1,1,-0.6118261296985184,S,Third,woman,False,Southampton,no,False,2
+252,0,1,male,62.0,0,0,0.5467449533170562,S,First,man,True,Southampton,no,True,0
+253,0,3,male,30.0,1,0,-0.20583113479562462,S,Third,man,True,Southampton,no,False,1
+254,0,3,female,41.0,0,2,0.09033816303819336,S,Third,woman,False,Southampton,no,False,2
+255,1,3,female,29.0,0,2,-0.2673479285244145,C,Third,woman,False,Cherbourg,yes,False,2
+259,1,2,female,50.0,0,1,0.507135685521652,S,Second,woman,False,Southampton,yes,False,1
+261,1,3,male,3.0,4,2,0.8951264677902709,S,Third,child,False,Southampton,yes,False,6
+263,0,1,male,40.0,0,0,-1.3653024284429132,S,First,man,True,Southampton,no,True,0
+264,0,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8071718367803985,Q,Third,woman,False,Queenstown,no,True,0
+265,0,2,male,36.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,no,True,0
+266,0,3,male,16.0,4,1,1.49286632724819,S,Third,man,True,Southampton,no,False,5
+267,1,3,male,25.0,1,0,-0.8053714155169711,S,Third,man,True,Southampton,yes,False,1
+270,0,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,0.8672199382071453,S,First,man,True,Southampton,no,True,0
+271,1,3,male,25.0,0,0,-1.3653024284429132,S,Third,man,True,Southampton,yes,True,0
+272,1,2,female,41.0,0,1,0.0390261570305108,S,Second,woman,False,Southampton,yes,False,1
+273,0,1,male,37.0,0,1,0.7735980325089169,C,First,man,True,Cherbourg,no,False,1
+276,0,3,female,45.0,0,0,-0.8071718367803985,S,Third,woman,False,Southampton,no,True,0
+277,0,2,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-1.3653024284429132,S,Second,man,True,Southampton,no,True,0
+278,0,3,male,7.0,4,1,0.7321883434500852,Q,Third,child,False,Queenstown,no,False,5
+279,1,3,female,35.0,1,1,0.0930387949333346,S,Third,woman,False,Southampton,yes,False,2
+280,0,3,male,65.0,0,0,-0.8071718367803985,Q,Third,man,True,Queenstown,no,True,0
+281,0,3,male,28.0,0,0,-0.799667680954433,S,Third,man,True,Southampton,no,True,0
+282,0,3,male,16.0,0,0,-0.6811423483404759,S,Third,man,True,Southampton,no,True,0
+283,1,3,male,19.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,yes,True,0
+284,0,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,0.507135685521652,S,First,man,True,Southampton,no,True,0
+285,0,3,male,33.0,0,0,-0.741456460665296,C,Third,man,True,Cherbourg,no,True,0
+286,1,3,male,30.0,0,0,-0.6811423483404759,S,Third,man,True,Southampton,yes,True,0
+287,0,3,male,22.0,0,0,-0.7966717799720896,S,Third,man,True,Southampton,no,True,0
+288,1,2,male,42.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,yes,True,0
+289,1,3,female,22.0,0,0,-0.8071718367803985,Q,Third,woman,False,Queenstown,yes,True,0
+292,0,2,male,36.0,0,0,-0.4380854777777679,C,Second,man,True,Cherbourg,no,True,0
+293,0,3,female,24.0,0,0,-0.7279533011895901,S,Third,woman,False,Southampton,no,True,0
+294,0,3,male,24.0,0,0,-0.7966717799720896,S,Third,man,True,Southampton,no,True,0
+296,0,3,male,23.5,0,0,-0.8446782125401195,C,Third,man,True,Cherbourg,no,True,0
+298,1,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,0.8312115129385957,S,First,man,True,Southampton,yes,True,0
+301,1,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",2,0,0.30908934654463055,Q,Third,man,True,Queenstown,yes,False,2
+302,0,3,male,19.0,0,0,-1.3653024284429132,S,Third,man,True,Southampton,no,True,0
+303,1,2,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.47589432430974477,Q,Second,woman,False,Queenstown,yes,True,0
+308,0,2,male,30.0,1,0,0.3631019844474546,C,Second,man,True,Cherbourg,no,False,1
+309,1,1,female,30.0,0,0,2.7345592591536834,C,First,woman,False,Cherbourg,yes,True,0
+312,0,2,female,26.0,1,1,0.507135685521652,S,Second,woman,False,Southampton,no,False,2
+314,0,2,male,43.0,1,1,0.5251398981559265,S,Second,man,True,Southampton,no,False,2
+315,1,3,female,26.0,0,0,-0.799667680954433,S,Third,woman,False,Southampton,yes,True,0
+316,1,2,female,24.0,1,0,0.507135685521652,S,Second,woman,False,Southampton,yes,False,1
+317,0,2,male,54.0,0,0,-0.35706652092353197,S,Second,man,True,Southampton,no,True,0
+321,0,3,male,27.0,0,0,-0.7966717799720896,S,Third,man,True,Southampton,no,True,0
+322,1,2,female,30.0,0,0,-0.47589432430974477,Q,Second,woman,False,Queenstown,yes,True,0
+323,1,2,female,22.0,1,1,0.7231862371329479,S,Second,woman,False,Southampton,yes,False,2
+326,0,3,male,61.0,0,0,-0.9160973232177603,S,Third,man,True,Southampton,no,True,0
+327,1,2,female,36.0,0,0,-0.4290833714606306,S,Second,woman,False,Southampton,yes,True,0
+328,1,3,female,31.0,1,1,0.11284342883103661,S,Third,woman,False,Southampton,yes,False,2
+329,1,1,female,16.0,0,1,2.810176952217637,C,First,woman,False,Cherbourg,yes,False,1
+330,1,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",2,0,0.30908934654463055,Q,Third,woman,False,Queenstown,yes,False,2
+331,0,1,male,45.5,0,0,0.6871778118643984,S,First,man,True,Southampton,no,True,0
+333,0,3,male,16.0,2,0,-0.06899911877513731,S,Third,man,True,Southampton,no,False,2
+338,1,3,male,45.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,yes,True,0
+339,0,1,male,45.0,0,0,1.1912957656240892,S,First,man,True,Southampton,no,True,0
+340,1,2,male,2.0,1,1,0.507135685521652,S,Second,child,False,Southampton,yes,False,2
+342,0,2,male,28.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,no,True,0
+344,0,2,male,36.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,no,True,0
+345,1,2,female,24.0,0,0,-0.4290833714606306,S,Second,woman,False,Southampton,yes,True,0
+346,1,2,female,40.0,0,0,-0.4290833714606306,S,Second,woman,False,Southampton,yes,True,0
+347,1,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,0,-0.20583113479562462,S,Third,woman,False,Southampton,yes,False,1
+348,1,3,male,3.0,1,1,-0.22023450490304453,S,Third,child,False,Southampton,yes,False,2
+349,0,3,male,42.0,0,0,-0.741456460665296,S,Third,man,True,Southampton,no,True,0
+350,0,3,male,23.0,0,0,-0.7009469822381781,S,Third,man,True,Southampton,no,True,0
+351,0,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,1.1552873403555401,S,First,man,True,Southampton,no,True,0
+352,0,3,male,15.0,1,1,-0.8446782125401195,C,Third,child,False,Cherbourg,no,False,2
+353,0,3,male,25.0,1,0,-0.0834024888825571,S,Third,man,True,Southampton,no,False,1
+356,1,1,female,22.0,0,1,2.595624351097513,S,First,woman,False,Southampton,yes,False,1
+357,0,2,female,38.0,0,0,-0.4290833714606306,S,Second,woman,False,Southampton,no,True,0
+360,0,3,male,40.0,1,4,0.6439677015421393,S,Third,man,True,Southampton,no,False,5
+361,0,2,male,29.0,1,0,0.6310622819258914,C,Second,man,True,Cherbourg,no,False,1
+362,0,3,female,45.0,0,1,-0.32435646740958174,C,Third,woman,False,Cherbourg,no,False,1
+363,0,3,male,35.0,0,0,-0.8575836321563676,S,Third,man,True,Southampton,no,True,0
+365,0,3,male,30.0,0,0,-0.8431802620489479,S,Third,man,True,Southampton,no,True,0
+367,1,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8446782125401195,C,Third,woman,False,Cherbourg,yes,True,0
+370,1,1,male,25.0,1,0,2.627434193979749,C,First,man,True,Cherbourg,yes,False,1
+371,0,3,male,18.0,1,0,-0.8974953707240277,S,Third,man,True,Southampton,no,False,1
+372,0,3,male,19.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+374,0,3,female,3.0,3,1,0.15245269662644087,S,Third,child,False,Southampton,no,False,4
+376,1,3,female,22.0,0,0,-0.8431802620489479,S,Third,woman,False,Southampton,yes,True,0
+378,0,3,male,20.0,0,0,-1.0763348156628048,C,Third,man,True,Cherbourg,no,True,0
+379,0,3,male,19.0,0,0,-0.8053714155169711,S,Third,man,True,Southampton,no,True,0
+381,1,3,female,1.0,0,2,-0.23163477234306726,C,Third,child,False,Cherbourg,yes,False,2
+382,0,3,male,32.0,0,0,-0.7945688879364063,S,Third,man,True,Southampton,no,True,0
+383,1,1,female,35.0,1,0,2.379573799486217,S,First,woman,False,Southampton,yes,False,1
+386,0,3,male,1.0,5,2,2.012287861747014,S,Third,child,False,Southampton,no,False,7
+388,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8086697872715702,Q,Third,man,True,Queenstown,no,True,0
+389,1,2,female,17.0,0,0,-0.5011002219977293,C,Second,woman,False,Cherbourg,yes,True,0
+391,1,3,male,21.0,0,0,-0.8038734650257995,S,Third,man,True,Southampton,yes,True,0
+392,0,3,male,28.0,2,0,-0.7945688879364063,S,Third,man,True,Southampton,no,False,2
+394,1,3,female,24.0,0,2,-0.16262102447336566,S,Third,woman,False,Southampton,yes,False,2
+395,0,3,male,22.0,0,0,-0.8038734650257995,S,Third,man,True,Southampton,no,True,0
+396,0,3,female,31.0,0,0,-0.799667680954433,S,Third,woman,False,Southampton,no,True,0
+397,0,2,male,46.0,0,0,0.507135685521652,S,Second,man,True,Southampton,no,True,0
+398,0,2,male,23.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,no,True,0
+399,1,2,female,28.0,0,0,-0.4542892691486151,S,Second,woman,False,Southampton,yes,True,0
+400,1,3,male,39.0,0,0,-0.7945688879364063,S,Third,man,True,Southampton,yes,True,0
+401,0,3,male,26.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+402,0,3,female,21.0,1,0,-0.657736871915919,S,Third,woman,False,Southampton,no,False,1
+403,0,3,male,28.0,1,0,-0.22383534742989947,S,Third,man,True,Southampton,no,False,1
+404,0,3,female,20.0,0,0,-0.741456460665296,S,Third,woman,False,Southampton,no,True,0
+405,0,2,male,34.0,1,0,0.14705143283615865,S,Second,man,True,Southampton,no,False,1
+406,0,3,male,51.0,0,0,-0.8071718367803985,S,Third,man,True,Southampton,no,True,0
+407,1,2,male,3.0,1,1,-0.014986480872313256,S,Second,child,False,Southampton,yes,False,2
+408,0,3,male,21.0,0,0,-0.8053714155169711,S,Third,man,True,Southampton,no,True,0
+411,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8713892624043295,Q,Third,man,True,Queenstown,no,True,0
+414,1,3,male,44.0,0,0,-0.7945688879364063,S,Third,man,True,Southampton,yes,True,0
+415,0,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.7855667816192689,S,Third,woman,False,Southampton,no,True,0
+416,1,2,female,34.0,1,1,0.9752452140127931,S,Second,woman,False,Southampton,yes,False,2
+417,1,2,female,18.0,0,2,-0.4290833714606306,S,Second,woman,False,Southampton,yes,False,2
+419,0,3,female,10.0,0,2,0.37390451202801933,S,Third,child,False,Southampton,no,False,2
+421,0,3,male,21.0,0,0,-0.8083745181843681,Q,Third,man,True,Queenstown,no,True,0
+422,0,3,male,29.0,0,0,-0.7981697304632612,S,Third,man,True,Southampton,no,True,0
+423,0,3,female,28.0,1,1,-0.3282597807086925,S,Third,woman,False,Southampton,no,False,2
+424,0,3,male,18.0,1,1,0.09033816303819336,S,Third,man,True,Southampton,no,False,2
+426,1,2,female,28.0,1,0,0.507135685521652,S,Second,woman,False,Southampton,yes,False,1
+427,1,2,female,19.0,0,0,0.507135685521652,S,Second,woman,False,Southampton,yes,True,0
+429,1,3,male,32.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,yes,True,0
+430,1,1,male,28.0,0,0,0.5467449533170562,S,First,man,True,Southampton,yes,True,0
+432,1,2,female,42.0,1,0,0.507135685521652,S,Second,woman,False,Southampton,yes,False,1
+433,0,3,male,17.0,0,0,-0.8521823683660853,S,Third,man,True,Southampton,no,True,0
+434,0,1,male,50.0,1,0,2.660439516580902,S,First,man,True,Southampton,no,False,1
+436,0,3,female,21.0,2,2,1.1102768087698531,S,Third,woman,False,Southampton,no,False,4
+437,1,2,female,24.0,2,3,-0.014986480872313256,S,Second,woman,False,Southampton,yes,False,5
+439,0,2,male,31.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,no,True,0
+440,1,2,female,45.0,1,1,0.5251398981559265,S,Second,woman,False,Southampton,yes,False,2
+441,0,3,male,20.0,0,0,-0.6811423483404759,S,Third,man,True,Southampton,no,True,0
+442,0,3,male,25.0,1,0,-0.8053714155169711,S,Third,man,True,Southampton,no,False,1
+443,1,2,female,28.0,0,0,-0.4290833714606306,S,Second,woman,False,Southampton,yes,True,0
+444,1,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.7810657284607002,S,Third,man,True,Southampton,yes,True,0
+446,1,2,female,13.0,0,1,0.0390261570305108,S,Second,child,False,Southampton,yes,False,1
+447,1,1,male,34.0,0,0,0.5467449533170562,S,First,man,True,Southampton,yes,True,0
+448,1,3,female,5.0,2,1,0.0216196842556937,C,Third,child,False,Cherbourg,yes,False,3
+449,1,1,male,52.0,0,0,0.8312115129385957,S,First,man,True,Southampton,yes,True,0
+450,0,2,male,36.0,1,2,0.6331651739615747,S,Second,man,True,Southampton,no,False,3
+451,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,0,0.07263642117617458,S,Third,man,True,Southampton,no,False,1
+452,0,1,male,30.0,0,0,0.6331651739615747,C,First,man,True,Cherbourg,no,True,0
+455,1,3,male,29.0,0,0,-0.7966717799720896,C,Third,man,True,Cherbourg,yes,True,0
+456,0,1,male,65.0,0,0,0.5467449533170562,S,First,man,True,Southampton,no,True,0
+457,1,1,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,0,2.3696714825373664,S,First,woman,False,Southampton,yes,False,1
+458,1,2,female,50.0,0,0,-0.6091254978033772,S,Second,woman,False,Southampton,yes,True,0
+460,1,1,male,48.0,0,0,0.5467449533170562,S,First,man,True,Southampton,yes,True,0
+461,0,3,male,34.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+462,0,1,male,47.0,0,0,1.407346317235385,S,First,man,True,Southampton,no,True,0
+463,0,2,male,48.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,no,True,0
+465,0,3,male,38.0,0,0,-0.8575836321563676,S,Third,man,True,Southampton,no,True,0
+467,0,1,male,56.0,0,0,0.5467449533170562,S,First,man,True,Southampton,no,True,0
+468,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.808972258043826,Q,Third,man,True,Queenstown,no,True,0
+469,1,3,female,0.75,2,1,0.0216196842556937,C,Third,child,False,Cherbourg,yes,False,3
+471,0,3,male,38.0,0,0,-0.741456460665296,S,Third,man,True,Southampton,no,True,0
+472,1,2,female,33.0,1,2,0.6331651739615747,S,Second,woman,False,Southampton,yes,False,3
+473,1,2,female,23.0,0,0,-0.3720676308904096,C,Second,woman,False,Cherbourg,yes,True,0
+474,0,3,female,22.0,0,0,-0.6568366612842051,S,Third,woman,False,Southampton,no,True,0
+475,0,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,2.379573799486217,S,First,man,True,Southampton,no,True,0
+477,0,3,male,29.0,1,0,-0.8578861029286234,S,Third,man,True,Southampton,no,False,1
+478,0,3,male,22.0,0,0,-0.8236780989235015,S,Third,man,True,Southampton,no,True,0
+479,1,3,female,2.0,0,1,-0.4803953774683134,S,Third,child,False,Southampton,yes,False,1
+480,0,3,male,9.0,5,2,2.012287861747014,S,Third,child,False,Southampton,no,False,7
+482,0,3,male,50.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+483,1,3,female,63.0,0,0,-0.6748408739184797,S,Third,woman,False,Southampton,yes,True,0
+487,0,1,male,58.0,0,0,0.7735980325089169,C,First,man,True,Cherbourg,no,True,0
+489,1,3,male,9.0,1,1,-0.22023450490304453,S,Third,child,False,Southampton,yes,False,2
+491,0,3,male,21.0,0,0,-0.8431802620489479,S,Third,man,True,Southampton,no,True,0
+492,0,1,male,55.0,0,0,0.8312115129385957,S,First,man,True,Southampton,no,True,0
+493,0,1,male,71.0,0,0,2.199834143915726,C,First,man,True,Cherbourg,no,True,0
+495,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.3240611983223797,C,Third,man,True,Cherbourg,no,True,0
+497,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.2778479853327234,S,Third,man,True,Southampton,no,True,0
+499,0,3,male,24.0,0,0,-0.8038734650257995,S,Third,man,True,Southampton,no,True,0
+501,0,3,female,21.0,0,0,-0.8071718367803985,Q,Third,woman,False,Queenstown,no,True,0
+502,0,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8158714723252801,Q,Third,woman,False,Queenstown,no,True,0
+503,0,3,female,37.0,0,0,-0.6748408739184797,S,Third,woman,False,Southampton,no,True,0
+506,1,2,female,33.0,0,2,0.507135685521652,S,Second,woman,False,Southampton,yes,False,2
+507,1,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,0.5467449533170562,S,First,man,True,Southampton,yes,True,0
+508,0,3,male,28.0,0,0,0.2568771299052339,S,Third,man,True,Southampton,no,True,0
+509,1,3,male,26.0,0,0,2.703347156130905,S,Third,man,True,Southampton,yes,True,0
+510,1,3,male,29.0,0,0,-0.8071718367803985,Q,Third,man,True,Queenstown,yes,True,0
+512,1,1,male,36.0,0,0,0.5278405300510678,S,First,man,True,Southampton,yes,True,0
+513,1,1,female,54.0,1,0,2.912498493460747,C,First,woman,False,Cherbourg,yes,False,1
+514,0,3,male,24.0,0,0,-0.825478520186929,S,Third,man,True,Southampton,no,True,0
+515,0,1,male,47.0,0,0,1.0847684403096127,S,First,man,True,Southampton,no,True,0
+516,1,2,female,34.0,0,0,-0.6091254978033772,S,Second,woman,False,Southampton,yes,True,0
+517,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,0.37390451202801933,Q,Third,man,True,Queenstown,no,True,0
+518,1,2,female,36.0,1,0,0.507135685521652,S,Second,woman,False,Southampton,yes,False,1
+519,0,3,male,32.0,0,0,-0.7966717799720896,S,Third,man,True,Southampton,no,True,0
+523,1,1,female,44.0,0,1,2.810176952217637,C,First,woman,False,Cherbourg,yes,False,1
+524,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8446782125401195,C,Third,man,True,Cherbourg,no,True,0
+525,0,3,male,40.5,0,0,-0.8071718367803985,Q,Third,man,True,Queenstown,no,True,0
+528,0,3,male,39.0,0,0,-0.7945688879364063,S,Third,man,True,Southampton,no,True,0
+529,0,2,male,23.0,2,1,-0.5371086472662786,S,Second,man,True,Southampton,no,False,3
+530,1,2,female,2.0,1,1,0.507135685521652,S,Second,child,False,Southampton,yes,False,2
+532,0,3,male,17.0,1,1,-0.8446782125401195,C,Third,man,True,Cherbourg,no,False,2
+533,1,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,2,0.24487192092069981,C,Third,woman,False,Cherbourg,yes,False,2
+534,0,3,female,30.0,0,0,-0.741456460665296,S,Third,woman,False,Southampton,no,True,0
+535,1,2,female,7.0,0,2,0.5251398981559265,S,Second,child,False,Southampton,yes,False,2
+536,0,1,male,45.0,0,0,0.5467449533170562,S,First,man,True,Southampton,no,True,0
+538,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.3210580956549826,S,Third,man,True,Southampton,no,True,0
+539,1,1,female,22.0,0,2,2.1995316731434706,C,First,woman,False,Cherbourg,yes,False,2
+541,0,3,female,9.0,4,2,0.8870245721048472,S,Third,child,False,Southampton,no,False,6
+542,0,3,female,11.0,4,2,0.8870245721048472,S,Third,child,False,Southampton,no,False,6
+543,1,2,male,32.0,1,0,0.507135685521652,S,Second,man,True,Southampton,yes,False,1
+545,0,1,male,64.0,0,0,0.507135685521652,S,First,man,True,Southampton,no,True,0
+546,1,2,female,19.0,1,0,0.507135685521652,S,Second,woman,False,Southampton,yes,False,1
+547,1,2,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.36696883787238294,C,Second,man,True,Cherbourg,yes,True,0
+548,0,3,male,33.0,1,1,0.11284342883103661,S,Third,man,True,Southampton,no,False,2
+549,1,2,male,8.0,1,1,1.2813168287954624,S,Second,child,False,Southampton,yes,False,2
+551,0,2,male,27.0,0,0,0.507135685521652,S,Second,man,True,Southampton,no,True,0
+552,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8014681022178604,Q,Third,man,True,Queenstown,no,True,0
+553,1,3,male,22.0,0,0,-0.8449806833123754,C,Third,man,True,Cherbourg,yes,True,0
+554,1,3,female,22.0,0,0,-0.8053714155169711,S,Third,woman,False,Southampton,yes,True,0
+556,1,1,female,48.0,1,0,1.4865648528261937,C,First,woman,False,Cherbourg,yes,False,1
+559,1,3,female,36.0,1,0,-0.11220922909739667,S,Third,woman,False,Southampton,yes,False,1
+561,0,3,male,40.0,0,0,-0.7966717799720896,S,Third,man,True,Southampton,no,True,0
+562,0,2,male,28.0,0,0,-0.3930749461920813,S,Second,man,True,Southampton,no,True,0
+565,0,3,male,24.0,2,0,0.37390451202801933,S,Third,man,True,Southampton,no,False,2
+566,0,3,male,19.0,0,0,-0.7966717799720896,S,Third,man,True,Southampton,no,True,0
+567,0,3,female,29.0,0,4,0.15245269662644087,S,Third,woman,False,Southampton,no,False,4
+569,1,3,male,32.0,0,0,-0.799667680954433,S,Third,man,True,Southampton,yes,True,0
+570,1,2,male,62.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,yes,True,0
+571,1,1,female,53.0,2,0,2.3420674237264953,S,First,woman,False,Southampton,yes,False,2
+572,1,1,male,36.0,0,0,0.5350422151047777,S,First,man,True,Southampton,yes,True,0
+574,0,3,male,16.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+575,0,3,male,19.0,0,0,-0.3210580956549826,S,Third,man,True,Southampton,no,True,0
+576,1,2,female,34.0,0,0,-0.4290833714606306,S,Second,woman,False,Southampton,yes,True,0
+577,1,1,female,39.0,1,0,2.660439516580902,S,First,woman,False,Southampton,yes,False,1
+578,0,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,0,-0.3240611983223797,C,Third,woman,False,Cherbourg,no,False,1
+579,1,3,male,32.0,0,0,-0.7945688879364063,S,Third,man,True,Southampton,yes,True,0
+580,1,2,female,25.0,1,1,0.7952030876700465,S,Second,woman,False,Southampton,yes,False,2
+582,0,2,male,54.0,0,0,0.507135685521652,S,Second,man,True,Southampton,no,True,0
+583,0,1,male,36.0,0,0,1.5243736993581705,C,First,man,True,Cherbourg,no,True,0
+584,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.737855618138441,C,Third,man,True,Cherbourg,no,True,0
+586,0,2,male,47.0,0,0,-0.2850496703864333,S,Second,man,True,Southampton,no,True,0
+590,0,3,male,35.0,0,0,-0.8521823683660853,S,Third,man,True,Southampton,no,True,0
+592,0,3,male,47.0,0,0,-0.8431802620489479,S,Third,man,True,Southampton,no,True,0
+593,0,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,2,-0.8071718367803985,Q,Third,woman,False,Queenstown,no,False,2
+594,0,2,male,37.0,1,0,0.507135685521652,S,Second,man,True,Southampton,no,False,1
+595,0,3,male,36.0,1,1,0.37390451202801933,S,Third,man,True,Southampton,no,False,2
+596,1,2,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,1.0112536392813423,S,Second,woman,False,Southampton,yes,True,0
+597,0,3,male,49.0,0,0,-1.3653024284429132,S,Third,man,True,Southampton,no,True,0
+599,1,1,male,49.0,1,0,2.7345592591536834,C,First,man,True,Cherbourg,yes,False,1
+600,1,2,female,24.0,2,1,0.5791525360587506,S,Second,woman,False,Southampton,yes,False,3
+602,0,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,1.68821203433007,S,First,man,True,Southampton,no,True,0
+603,0,3,male,44.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+604,1,1,male,35.0,0,0,0.5467449533170562,C,First,man,True,Cherbourg,yes,True,0
+605,0,3,male,36.0,1,0,-0.245440402591029,S,Third,man,True,Southampton,no,False,1
+606,0,3,male,30.0,0,0,-0.7966717799720896,S,Third,man,True,Southampton,no,True,0
+607,1,1,male,27.0,0,0,0.8312115129385957,S,First,man,True,Southampton,yes,True,0
+608,1,2,female,22.0,1,2,1.6291006034092193,C,Second,woman,False,Cherbourg,yes,False,3
+610,0,3,female,39.0,1,5,0.8870245721048472,S,Third,woman,False,Southampton,no,False,6
+611,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8575836321563676,S,Third,man,True,Southampton,no,True,0
+615,1,2,female,24.0,1,2,3.3157928564684993,S,Second,woman,False,Southampton,yes,False,3
+616,0,3,male,34.0,1,1,-0.3282597807086925,S,Third,man,True,Southampton,no,False,2
+617,0,3,female,26.0,1,0,-0.20583113479562462,S,Third,woman,False,Southampton,no,False,1
+618,1,2,female,4.0,2,1,1.4433547425039348,S,Second,child,False,Southampton,yes,False,3
+619,0,2,male,26.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,no,True,0
+620,0,3,male,27.0,1,0,-0.32435646740958174,C,Third,man,True,Cherbourg,no,False,1
+621,1,1,male,42.0,1,0,2.419485538053877,S,First,man,True,Southampton,yes,False,1
+622,1,3,male,20.0,1,1,-0.23163477234306726,C,Third,man,True,Cherbourg,yes,False,2
+623,0,3,male,21.0,0,0,-0.799667680954433,S,Third,man,True,Southampton,no,True,0
+624,0,3,male,21.0,0,0,-0.20583113479562462,S,Third,man,True,Southampton,no,True,0
+625,0,1,male,61.0,0,0,0.9623397943965449,S,First,man,True,Southampton,no,True,0
+626,0,2,male,57.0,0,0,-0.47589432430974477,Q,Second,man,True,Queenstown,no,True,0
+628,0,3,male,26.0,0,0,-0.7966717799720896,S,Third,man,True,Southampton,no,True,0
+629,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8083745181843681,Q,Third,man,True,Queenstown,no,True,0
+630,1,1,male,80.0,0,0,0.7952030876700465,S,First,man,True,Southampton,yes,True,0
+631,0,3,male,51.0,0,0,-0.8572811613841118,S,Third,man,True,Southampton,no,True,0
+632,1,1,male,32.0,0,0,0.8312115129385957,C,First,man,True,Cherbourg,yes,True,0
+633,0,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-1.3653024284429132,S,First,man,True,Southampton,no,True,0
+634,0,3,female,9.0,3,2,0.6439677015421393,S,Third,child,False,Southampton,no,False,5
+637,0,2,male,31.0,1,1,0.5251398981559265,S,Second,man,True,Southampton,no,False,2
+638,0,3,female,41.0,0,5,1.49286632724819,S,Third,woman,False,Southampton,no,False,5
+639,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,0,-0.20583113479562462,S,Third,man,True,Southampton,no,False,1
+642,0,3,female,2.0,3,2,0.6439677015421393,S,Third,child,False,Southampton,no,False,5
+643,1,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,2.703347156130905,S,Third,man,True,Southampton,yes,True,0
+647,1,1,male,56.0,0,0,1.1912957656240892,C,First,man,True,Cherbourg,yes,True,0
+648,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8215752068878183,S,Third,man,True,Southampton,no,True,0
+649,1,3,female,23.0,0,0,-0.8215752068878183,S,Third,woman,False,Southampton,yes,True,0
+651,1,2,female,18.0,0,1,0.29108513391035595,S,Second,woman,False,Southampton,yes,False,1
+652,0,3,male,21.0,0,0,-0.7579627228083992,S,Third,man,True,Southampton,no,True,0
+653,1,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8014681022178604,Q,Third,woman,False,Queenstown,yes,True,0
+654,0,3,female,18.0,0,0,-0.8791886873174971,Q,Third,woman,False,Queenstown,no,True,0
+657,0,3,female,32.0,1,1,-0.24904124511788395,Q,Third,woman,False,Queenstown,no,False,2
+658,0,2,male,23.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,no,True,0
+661,0,3,male,40.0,0,0,-0.8449806833123754,C,Third,man,True,Cherbourg,no,True,0
+662,0,1,male,47.0,0,0,0.47742873467509855,S,First,man,True,Southampton,no,True,0
+663,0,3,male,36.0,0,0,-0.825478520186929,S,Third,man,True,Southampton,no,True,0
+664,1,3,male,20.0,1,0,-0.7945688879364063,S,Third,man,True,Southampton,yes,False,1
+667,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8053714155169711,S,Third,man,True,Southampton,no,True,0
+668,0,3,male,43.0,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+669,1,1,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,0,2.379573799486217,S,First,woman,False,Southampton,yes,False,1
+670,1,2,female,40.0,1,1,1.4433547425039348,S,Second,woman,False,Southampton,yes,False,2
+671,0,1,male,31.0,1,0,2.379573799486217,S,First,man,True,Southampton,no,False,1
+672,0,2,male,70.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,no,True,0
+673,1,2,male,31.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,yes,True,0
+675,0,3,male,18.0,0,0,-0.8053714155169711,S,Third,man,True,Southampton,no,True,0
+676,0,3,male,24.5,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+677,1,3,female,18.0,0,0,-0.6565341905119493,S,Third,woman,False,Southampton,yes,True,0
+678,0,3,female,43.0,1,6,2.012287861747014,S,Third,woman,False,Southampton,no,False,7
+680,0,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.7792653071972729,Q,Third,woman,False,Queenstown,no,True,0
+682,0,3,male,20.0,0,0,-0.7009469822381781,S,Third,man,True,Southampton,no,True,0
+683,0,3,male,14.0,5,2,2.012287861747014,S,Third,child,False,Southampton,no,False,7
+684,0,2,male,60.0,1,1,1.4433547425039348,S,Second,man,True,Southampton,no,False,2
+685,0,2,male,25.0,1,2,1.6291006034092193,C,Second,man,True,Cherbourg,no,False,3
+686,0,3,male,14.0,4,1,1.49286632724819,S,Third,child,False,Southampton,no,False,5
+687,0,3,male,19.0,0,0,-0.6328334450001901,S,Third,man,True,Southampton,no,True,0
+688,0,3,male,18.0,0,0,-0.8038734650257995,S,Third,man,True,Southampton,no,True,0
+690,1,1,male,31.0,1,0,2.73965805217171,S,First,man,True,Southampton,yes,False,1
+691,1,3,female,4.0,0,1,-0.39907394984182154,C,Third,child,False,Cherbourg,yes,False,1
+693,0,3,male,25.0,0,0,-0.8449806833123754,C,Third,man,True,Cherbourg,no,True,0
+694,0,1,male,60.0,0,0,0.5467449533170562,S,First,man,True,Southampton,no,True,0
+695,0,2,male,52.0,0,0,-0.3930749461920813,S,Second,man,True,Southampton,no,True,0
+697,1,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8083745181843681,Q,Third,woman,False,Queenstown,yes,True,0
+699,0,3,male,42.0,0,0,-0.8143735218341084,S,Third,man,True,Southampton,no,True,0
+701,1,1,male,35.0,0,0,0.5278405300510678,S,First,man,True,Southampton,yes,True,0
+702,0,3,female,18.0,0,1,-0.32435646740958174,C,Third,woman,False,Cherbourg,no,False,1
+703,0,3,male,25.0,0,0,-0.8077695766398565,Q,Third,man,True,Queenstown,no,True,0
+704,0,3,male,26.0,1,0,-0.799667680954433,S,Third,man,True,Southampton,no,False,1
+705,0,2,male,39.0,0,0,0.507135685521652,S,Second,man,True,Southampton,no,True,0
+706,1,2,female,45.0,0,0,-0.3930749461920813,S,Second,woman,False,Southampton,yes,True,0
+707,1,1,male,42.0,0,0,0.5278405300510678,S,First,man,True,Southampton,yes,True,0
+710,1,1,female,24.0,0,0,2.199834143915726,C,First,woman,False,Cherbourg,yes,True,0
+711,0,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,0.5467449533170562,S,First,man,True,Southampton,no,True,0
+712,1,1,male,48.0,1,0,2.379573799486217,S,First,man,True,Southampton,yes,False,1
+713,0,3,male,29.0,0,0,-0.6823450297444454,S,Third,man,True,Southampton,no,True,0
+714,0,2,male,52.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,no,True,0
+715,0,3,male,19.0,0,0,-0.8143735218341084,S,Third,man,True,Southampton,no,True,0
+717,1,2,female,27.0,0,0,-0.6091254978033772,S,Second,woman,False,Southampton,yes,True,0
+718,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.24904124511788395,Q,Third,man,True,Queenstown,no,True,0
+719,0,3,male,33.0,0,0,-0.8053714155169711,S,Third,man,True,Southampton,no,True,0
+720,1,2,female,6.0,0,1,1.0112536392813423,S,Second,child,False,Southampton,yes,False,1
+721,0,3,male,17.0,1,0,-0.8572811613841118,S,Third,man,True,Southampton,no,False,1
+722,0,2,male,34.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,no,True,0
+723,0,2,male,50.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,no,True,0
+724,1,1,male,27.0,1,0,2.458792335077026,S,First,man,True,Southampton,yes,False,1
+725,0,3,male,20.0,0,0,-0.741456460665296,S,Third,man,True,Southampton,no,True,0
+726,1,2,female,30.0,3,0,0.14705143283615865,S,Second,woman,False,Southampton,yes,False,3
+727,1,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8080720474121124,Q,Third,woman,False,Queenstown,yes,True,0
+728,0,2,male,25.0,1,0,0.507135685521652,S,Second,man,True,Southampton,no,False,1
+729,0,3,female,25.0,1,0,-0.7945688879364063,S,Third,woman,False,Southampton,no,False,1
+731,0,3,male,11.0,0,0,-0.012285848977172015,C,Third,child,False,Cherbourg,no,True,0
+735,0,3,male,28.5,0,0,-0.20583113479562462,S,Third,man,True,Southampton,no,True,0
+736,0,3,female,48.0,1,3,1.1102768087698531,S,Third,woman,False,Southampton,no,False,4
+740,1,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,0.7952030876700465,S,First,man,True,Southampton,yes,True,0
+743,0,3,male,24.0,1,0,-0.20583113479562462,S,Third,man,True,Southampton,no,False,1
+744,1,3,male,31.0,0,0,-0.7945688879364063,S,Third,man,True,Southampton,yes,True,0
+746,0,3,male,16.0,1,1,0.0930387949333346,S,Third,man,True,Southampton,no,False,2
+747,1,2,female,30.0,0,0,-0.4290833714606306,S,Second,woman,False,Southampton,yes,True,0
+748,0,1,male,19.0,1,0,2.458792335077026,S,First,man,True,Southampton,no,False,1
+749,0,3,male,31.0,0,0,-0.8071718367803985,Q,Third,man,True,Queenstown,no,True,0
+750,1,2,female,4.0,1,1,0.29108513391035595,S,Second,child,False,Southampton,yes,False,2
+751,1,3,male,6.0,0,1,-0.4668922179926075,S,Third,child,False,Southampton,yes,False,1
+752,0,3,male,33.0,0,0,-0.6811423483404759,S,Third,man,True,Southampton,no,True,0
+753,0,3,male,23.0,0,0,-0.7966717799720896,S,Third,man,True,Southampton,no,True,0
+754,1,2,female,48.0,1,2,3.3157928564684993,S,Second,woman,False,Southampton,yes,False,3
+755,1,2,male,0.67,1,1,-0.3210580956549826,S,Second,child,False,Southampton,yes,False,2
+756,0,3,male,28.0,0,0,-0.8038734650257995,S,Third,man,True,Southampton,no,True,0
+761,0,3,male,41.0,0,0,-0.8521823683660853,S,Third,man,True,Southampton,no,True,0
+762,1,3,male,20.0,0,0,-0.8446782125401195,C,Third,man,True,Cherbourg,yes,True,0
+764,0,3,male,16.0,0,0,-0.8053714155169711,S,Third,man,True,Southampton,no,True,0
+766,0,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,1.4865648528261937,C,First,man,True,Cherbourg,no,True,0
+767,0,3,female,30.5,0,0,-0.8071718367803985,Q,Third,woman,False,Queenstown,no,True,0
+768,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,0,0.37390451202801933,Q,Third,man,True,Queenstown,no,False,1
+769,0,3,male,32.0,0,0,-0.7630615158264256,S,Third,man,True,Southampton,no,True,0
+770,0,3,male,24.0,0,0,-0.6811423483404759,S,Third,man,True,Southampton,no,True,0
+771,0,3,male,48.0,0,0,-0.799667680954433,S,Third,man,True,Southampton,no,True,0
+772,0,2,female,57.0,0,0,-0.6091254978033772,S,Second,woman,False,Southampton,no,True,0
+774,1,2,female,54.0,1,3,0.29108513391035595,S,Second,woman,False,Southampton,yes,False,4
+775,0,3,male,18.0,0,0,-0.8071718367803985,S,Third,man,True,Southampton,no,True,0
+777,1,3,female,5.0,0,0,-0.4668922179926075,S,Third,child,False,Southampton,yes,True,0
+778,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8080720474121124,Q,Third,man,True,Queenstown,no,True,0
+780,1,3,female,13.0,0,0,-0.8446782125401195,C,Third,child,False,Cherbourg,yes,True,0
+781,1,1,female,17.0,1,0,2.73965805217171,S,First,woman,False,Southampton,yes,False,1
+782,0,1,male,29.0,0,0,0.7952030876700465,S,First,man,True,Southampton,no,True,0
+783,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,2,0.32349271665205037,S,Third,man,True,Southampton,no,False,3
+784,0,3,male,25.0,0,0,-0.8575836321563676,S,Third,man,True,Southampton,no,True,0
+785,0,3,male,25.0,0,0,-0.8431802620489479,S,Third,man,True,Southampton,no,True,0
+786,1,3,female,18.0,0,0,-0.825478520186929,S,Third,woman,False,Southampton,yes,True,0
+787,0,3,male,8.0,4,1,0.7321883434500852,Q,Third,child,False,Queenstown,no,False,5
+788,1,3,male,1.0,1,2,0.11644427135789169,S,Third,child,False,Southampton,yes,False,3
+791,0,2,male,16.0,0,0,0.507135685521652,S,Second,man,True,Southampton,no,True,0
+793,0,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,0.8453124122737598,C,First,man,True,Cherbourg,no,True,0
+794,0,3,male,25.0,0,0,-0.7966717799720896,S,Third,man,True,Southampton,no,True,0
+795,0,2,male,39.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,no,True,0
+796,1,1,female,49.0,0,0,0.5020368925036256,S,First,woman,False,Southampton,yes,True,0
+797,1,3,female,31.0,0,0,-0.7399585101741244,S,Third,woman,False,Southampton,yes,True,0
+798,0,3,male,30.0,0,0,-0.8446782125401195,C,Third,man,True,Cherbourg,no,True,0
+799,0,3,female,30.0,1,1,0.37390451202801933,S,Third,woman,False,Southampton,no,False,2
+801,1,2,female,31.0,1,1,0.5251398981559265,S,Second,woman,False,Southampton,yes,False,2
+803,1,3,male,0.42,0,1,-0.751956517473605,C,Third,child,False,Cherbourg,yes,False,1
+804,1,3,male,27.0,0,0,-0.86298489594665,S,Third,man,True,Southampton,yes,True,0
+805,0,3,male,31.0,0,0,-0.8053714155169711,S,Third,man,True,Southampton,no,True,0
+806,0,1,male,39.0,0,0,-1.3653024284429132,S,First,man,True,Southampton,no,True,0
+807,0,3,female,18.0,0,0,-0.8053714155169711,S,Third,woman,False,Southampton,no,True,0
+809,1,1,female,33.0,1,0,2.458792335077026,S,First,woman,False,Southampton,yes,False,1
+810,0,3,male,26.0,0,0,-0.7972695198315475,S,Third,man,True,Southampton,no,True,0
+811,0,3,male,39.0,0,0,0.37390451202801933,S,Third,man,True,Southampton,no,True,0
+812,0,2,male,35.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,no,True,0
+813,0,3,female,6.0,4,2,0.8870245721048472,S,Third,child,False,Southampton,no,False,6
+814,0,3,male,30.5,0,0,-0.7855667816192689,S,Third,man,True,Southampton,no,True,0
+816,0,3,female,23.0,0,0,-0.7945688879364063,S,Third,woman,False,Southampton,no,True,0
+817,0,2,male,31.0,1,1,1.299623512201993,C,Second,man,True,Cherbourg,no,False,2
+818,0,3,male,43.0,0,0,-0.9007937424786269,S,Third,man,True,Southampton,no,True,0
+819,0,3,male,10.0,3,2,0.6439677015421393,S,Third,child,False,Southampton,no,False,5
+821,1,3,male,27.0,0,0,-0.741456460665296,S,Third,man,True,Southampton,yes,True,0
+822,0,1,male,38.0,0,0,-1.3653024284429132,S,First,man,True,Southampton,no,True,0
+823,1,3,female,27.0,0,1,-0.4668922179926075,S,Third,woman,False,Southampton,yes,False,1
+824,0,3,male,2.0,4,1,1.49286632724819,S,Third,child,False,Southampton,no,False,5
+825,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8647853172100775,Q,Third,man,True,Queenstown,no,True,0
+826,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,2.703347156130905,S,Third,man,True,Southampton,no,True,0
+827,1,2,male,1.0,0,2,1.299623512201993,C,Second,child,False,Cherbourg,yes,False,2
+828,1,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.8071718367803985,Q,Third,man,True,Queenstown,yes,True,0
+830,1,3,female,15.0,1,0,-0.32435646740958174,C,Third,child,False,Cherbourg,yes,False,1
+831,1,2,male,0.83,1,1,-0.014986480872313256,S,Second,child,False,Southampton,yes,False,2
+833,0,3,male,23.0,0,0,-0.799667680954433,S,Third,man,True,Southampton,no,True,0
+834,0,3,male,18.0,0,0,-0.7675625689849942,S,Third,man,True,Southampton,no,True,0
+836,0,3,male,21.0,0,0,-0.741456460665296,S,Third,man,True,Southampton,no,True,0
+839,1,1,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,0.7735980325089169,C,First,man,True,Cherbourg,yes,True,0
+840,0,3,male,20.0,0,0,-0.7945688879364063,S,Third,man,True,Southampton,no,True,0
+841,0,2,male,16.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,no,True,0
+842,1,1,female,30.0,0,0,0.8672199382071453,C,First,woman,False,Cherbourg,yes,True,0
+843,0,3,male,34.5,0,0,-0.9016939531103405,C,Third,man,True,Cherbourg,no,True,0
+845,0,3,male,42.0,0,0,-0.8215752068878183,S,Third,man,True,Southampton,no,True,0
+847,0,3,male,35.0,0,0,-0.7966717799720896,C,Third,man,True,Cherbourg,no,True,0
+848,0,2,male,28.0,0,1,1.0112536392813423,S,Second,man,True,Southampton,no,False,1
+850,0,3,male,4.0,4,2,0.8870245721048472,S,Third,child,False,Southampton,no,False,6
+851,0,3,male,74.0,0,0,-0.8053714155169711,S,Third,man,True,Southampton,no,True,0
+852,0,3,female,9.0,1,1,-0.2673479285244145,C,Third,child,False,Cherbourg,no,False,2
+853,1,1,female,16.0,0,1,1.472161482718774,S,First,woman,False,Southampton,yes,False,1
+854,0,2,female,44.0,1,0,0.507135685521652,S,Second,woman,False,Southampton,no,False,1
+855,1,3,female,18.0,0,1,-0.6919448759210407,S,Third,woman,False,Southampton,yes,False,1
+857,1,1,male,51.0,0,0,0.5467449533170562,S,First,man,True,Southampton,yes,True,0
+858,1,3,female,24.0,0,3,0.0216196842556937,C,Third,woman,False,Cherbourg,yes,False,3
+860,0,3,male,41.0,2,0,-0.34926709601036415,S,Third,man,True,Southampton,no,False,2
+861,0,2,male,21.0,1,0,-0.5371086472662786,S,Second,man,True,Southampton,no,False,1
+862,1,1,female,48.0,0,0,0.5020368925036256,S,First,woman,False,Southampton,yes,True,0
+864,0,2,male,24.0,0,0,-0.4290833714606306,S,Second,man,True,Southampton,no,True,0
+865,1,2,female,42.0,0,0,-0.4290833714606306,S,Second,woman,False,Southampton,yes,True,0
+866,1,2,female,27.0,1,0,-0.3672713086446389,C,Second,woman,False,Cherbourg,yes,False,1
+867,0,1,male,31.0,0,0,2.2712460529083134,S,First,man,True,Southampton,no,True,0
+868,0,3,male,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",0,0,-0.6811423483404759,S,Third,man,True,Southampton,no,True,0
+869,1,3,male,4.0,1,1,-0.5635172263582326,S,Third,child,False,Southampton,yes,False,2
+871,1,1,female,47.0,1,1,2.419485538053877,S,First,woman,False,Southampton,yes,False,2
+872,0,1,male,33.0,0,0,-1.00521817575742,S,First,man,True,Southampton,no,True,0
+873,0,3,male,47.0,0,0,-0.7171507736090252,S,Third,man,True,Southampton,no,True,0
+874,1,2,female,28.0,1,0,0.3631019844474546,C,Second,woman,False,Cherbourg,yes,False,1
+875,1,3,female,15.0,0,0,-0.8449806833123754,C,Third,child,False,Cherbourg,yes,True,0
+876,0,3,male,20.0,0,0,-0.6562389214247472,S,Third,man,True,Southampton,no,True,0
+880,1,2,female,25.0,0,1,0.507135685521652,S,Second,woman,False,Southampton,yes,False,1
+881,0,3,male,33.0,0,0,-0.7966717799720896,S,Third,man,True,Southampton,no,True,0
+882,0,3,female,22.0,0,0,-0.6079228163994077,S,Third,woman,False,Southampton,no,True,0
+883,0,2,male,28.0,0,0,-0.6091254978033772,S,Second,man,True,Southampton,no,True,0
+885,0,3,female,39.0,0,5,0.7321883434500852,Q,Third,woman,False,Queenstown,no,False,5
+887,1,1,female,19.0,0,0,0.7952030876700465,S,First,woman,False,Southampton,yes,True,0
+888,0,3,female,"<bound method Series.mean of 0      22.0
+1      38.0
+2      26.0
+3      35.0
+4      35.0
+       ... 
+886    27.0
+887    19.0
+888     NaN
+889    26.0
+890    32.0
+Name: age, Length: 891, dtype: float64>",1,2,0.32349271665205037,S,Third,woman,False,Southampton,no,False,3
+889,1,1,male,26.0,0,0,0.7952030876700465,C,First,man,True,Cherbourg,yes,True,0
+890,0,3,male,32.0,0,0,-0.8071718367803985,Q,Third,man,True,Queenstown,no,True,0
